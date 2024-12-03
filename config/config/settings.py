@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-8vi4t=+_1^6*#fxbvhiwiyw%2z#y^y7ne33(8wpu^8i=zeeyv)
 DEBUG = True
 
 ALLOWED_HOSTS = []
-
+TELEGRAM_ADMIN_IDS = [855861024]
 
 # Application definition
 
